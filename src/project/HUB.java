@@ -19,7 +19,7 @@ public class HUB {
 				RemoteWebDriver driver = new RemoteWebDriver(new URL("http://192.168.0.108:4444/wd/hub"),dc);
 				
 				//driver.get("https://www.facebook.com/");
-				driver.get("https://www.google.co.in/?gfe_rd=cr&ei=s0WZWfC_MPLx8Aet-Y_YDQ");
+				driver.get("https://www.google.co.in/?gfe_rd=cr&ei=s0WZWfC_MPLx8Aet-Y
 				
 				
 				
