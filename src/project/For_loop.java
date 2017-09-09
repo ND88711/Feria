@@ -1,5 +1,3 @@
 package project;
 
-public class For_loop {
-
-}
+public class For_loop
